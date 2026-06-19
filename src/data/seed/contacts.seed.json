@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "email": "aarav.sharma@plati-one.com",
+    "phone": "+91-98765-43210",
+    "company": "Nimbus Retail",
+    "jobTitle": "Procurement Lead",
+    "status": "ACTIVE",
+    "tags": ["enterprise", "priority"]
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Rossi",
+    "email": "sofia.rossi@plati-one.com",
+    "phone": "+39-320-555-0199",
+    "company": "Adriatic Foods",
+    "jobTitle": "Operations Manager",
+    "status": "ACTIVE",
+    "tags": ["smb"]
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "email": "liam.oconnor@plati-one.com",
+    "phone": "+353-86-555-0143",
+    "company": "Shamrock Logistics",
+    "jobTitle": "Director of Sales",
+    "status": "INACTIVE",
+    "tags": ["dormant"]
+  }
+]
